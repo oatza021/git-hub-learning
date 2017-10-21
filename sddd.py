@@ -1,7 +1,7 @@
 """xdd"""
 def main(num):
 	"""Xdd"""
-	if numa < 10:
+	if num < 10:
 		print(num+1)
 		num += 1
 		main(num)
